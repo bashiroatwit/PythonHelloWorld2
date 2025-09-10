@@ -1,3 +1,3 @@
- #Updated Beacuse the professor asked me to
+ #Updated for learning purposes 
 
-print('THAT IS AN UPDATE \n HELLO WORLD')
+print('THAT IS AN UPDATE \nHELLO WORLD')
